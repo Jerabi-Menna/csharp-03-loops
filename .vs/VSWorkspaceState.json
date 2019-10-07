@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02-loops-for-Demo",
+    "\\04-loops-for-ClassAve",
+    "\\30-loops-while-GuessNumberPlayOnce"
   ],
+  "SelectedNode": "\\30-loops-while-GuessNumberPlayOnce\\Program (2).cs",
   "PreviewInSolutionExplorer": false
 }

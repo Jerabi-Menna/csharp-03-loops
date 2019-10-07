@@ -1,0 +1,6 @@
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\obj\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.csproj.CoreCompileInputs.cache
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\bin\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.exe.config
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\bin\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.exe
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\bin\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.pdb
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\obj\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.exe
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\60-2017-09-IC-loops-do-while-AddCalcPlayMany\obj\Debug\60-2017-09-IC-loops-do-while-AddCalcPlayMany.pdb

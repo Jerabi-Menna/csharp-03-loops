@@ -4,3 +4,10 @@ C:\Users\robbi\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\bin\Debug\04-l
 C:\Users\robbi\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.exe
 C:\Users\robbi\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\bin\Debug\04-loops-for-ClassAve.exe.config
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\bin\Debug\04-loops-for-ClassAve.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\bin\Debug\04-loops-for-ClassAve.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.csprojAssemblyReference.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.csproj.CoreCompileInputs.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\04-loops-for-ClassAve\obj\Debug\04-loops-for-ClassAve.pdb

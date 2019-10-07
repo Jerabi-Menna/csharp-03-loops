@@ -4,3 +4,10 @@ C:\Users\robbi\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHigh
 C:\Users\robbi\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.exe
 C:\Users\robbi\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.csprojAssemblyReference.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.csproj.CoreCompileInputs.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\obj\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\bin\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.exe.config
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\bin\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\12-2018-09-IC-loops-for-ClassAveHighLow\bin\Debug\12-2018-09-IC-loops-for-ClassAveHighLow.pdb

@@ -5,3 +5,10 @@ C:\Users\robbi\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops
 C:\Users\robbi\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.exe
 C:\Users\robbi\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\bin\Debug\02-loops-for-Demo.exe.config
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\bin\Debug\02-loops-for-Demo.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\bin\Debug\02-loops-for-Demo.pdb
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.csprojAssemblyReference.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.csproj.CoreCompileInputs.cache
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.exe
+C:\Users\jrabidoux1\Source\Repos\csharp-03-loops\02-loops-for-Demo\obj\Debug\02-loops-for-Demo.pdb

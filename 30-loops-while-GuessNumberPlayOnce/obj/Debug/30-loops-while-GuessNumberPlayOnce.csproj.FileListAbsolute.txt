@@ -5,3 +5,10 @@ C:\Users\robbi\Source\Repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\o
 C:\Users\robbi\Source\Repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.exe
 C:\Users\robbi\Source\Repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.pdb
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.csprojAssemblyReference.cache
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.csproj.CoreCompileInputs.cache
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.exe
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\obj\Debug\30-loops-while-GuessNumberPlayOnce.pdb
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\bin\Debug\30-loops-while-GuessNumberPlayOnce.exe.config
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\bin\Debug\30-loops-while-GuessNumberPlayOnce.exe
+C:\Users\jrabidoux1\source\repos\csharp-03-loops\30-loops-while-GuessNumberPlayOnce\bin\Debug\30-loops-while-GuessNumberPlayOnce.pdb
